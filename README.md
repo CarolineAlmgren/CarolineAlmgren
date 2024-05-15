@@ -1,6 +1,6 @@
 ### Hi I'm Caroline 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineAlmgren&show_icons=true&theme=dracula&card_width=465)](https://github.com/CarolineAlmgren/github-readme-stats)
-[![[CarolineAlmgren] GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolineAlmgren&show_icons=true&theme=dracula)](https://github.com/CarolineAlmgren/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineAlmgren&show_icons=true&theme=gradient&card_width=465)](https://github.com/CarolineAlmgren/github-readme-stats)
+[![[CarolineAlmgren] GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolineAlmgren&show_icons=true&theme=gradient)](https://github.com/CarolineAlmgren/github-readme-stats)
 <!--
 **CarolineAlmgren/CarolineAlmgren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
