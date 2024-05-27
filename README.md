@@ -1,4 +1,4 @@
-### Hi I'm Caroline 👋
+### Hi, I'm Caroline 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineAlmgren&show_icons=true&theme=ambient_gradient&card_width=465)](https://github.com/CarolineAlmgren/github-readme-stats)
 [![[CarolineAlmgren] GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolineAlmgren&show_icons=true&theme=ambient_gradient)](https://github.com/CarolineAlmgren/github-readme-stats)
 <!--
